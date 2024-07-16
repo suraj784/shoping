@@ -1,0 +1,55 @@
+[
+    {
+        "id" :1,
+        "name":"bag",
+        "type": "lether",
+        "price":1100,
+        "description":"this is lether bag for tourister",
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/t/5/q/-original-imagtehgwjb77yuj.jpeg?q=70"
+
+    },
+    
+    {
+        "id" :2,
+        "name":"watch",
+        "type": "analog-watch",
+        "price":1482,
+        "description":"Analog Watch - For Men PE000017B",
+        "img":"https://rukminim2.flixcart.com/image/612/612/kg8avm80-0/watch/f/f/3/pe000017b-peter-england-original-imafwgbuhhky2pn4.jpeg?q=70"
+    },
+    {
+        "id" :3,
+        "name":"belt",
+        "type": "lether",
+        "price":500,
+        "description":"This is lether belt for all",
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/belt/q/d/a/48-cv0558-cv0558-belt-greaton-original-imagjzxn7zh3tfgr.jpeg?q=70"
+    },
+
+    {
+        "id" :4,
+        "name":"shoes",
+        "type": "sports",
+        "price":1250,
+        "description":"This shoes for runner",
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/x/k/3/-original-imagsuvne32jawqr.jpeg?q=70"
+    },
+
+    {
+        "id" :5,
+        "name":"t-shirt",
+        "type": "top-wear",
+        "price":1100,
+        "description":"Men Printed Round Neck Polyester Green T-Shirt",
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/k/5/xl-ts12-vebnor-original-imahyf5sf8grhags.jpeg?q=70"
+    },
+
+    {
+        "id" :6,
+        "name":"jeans",
+        "type": "bottom-wear",
+        "price":450,
+        "description":"Men Slim Mid Rise Dark Blue Jeans",
+        "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/jean/n/r/e/38-ljmpq205-lzard-original-imahfcd2p5rzgp7z.jpeg?q=70"
+    } 
+]
